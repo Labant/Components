@@ -14,7 +14,7 @@
  *2、添加数据:WaveFileAppend:void
  *@parameters:
  *  (1) &data:int形数据的引用
- *3、关闭文件(生成文件):WriteClose:void
+ *3、关闭文件(生成WAV文件):WriteClose:void
  *@paremeter:
  *  nothing
  */
